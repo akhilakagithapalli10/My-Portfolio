@@ -42,6 +42,6 @@ This portfolio serves as my professional digital presence, showcasing my technic
 📬 Connect With Me
 
  💼 LinkedIn: [www.linkedin.com/in/akhilakagithapalli-7a8532337](http://www.linkedin.com/in/akhilakagithapalli-7a8532337)
- 📧 Email: [kagithapalliakhila10@gmail.com](mailto:kagithapalliakhila10@gmail.com)
+ 📧 Email: [kagithapalliakhila@gmail.com](mailto:kagithapalliakhila@gmail.com)
 
 ⭐ If you like this portfolio, don't forget to star the repository!
